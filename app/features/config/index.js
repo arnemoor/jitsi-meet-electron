@@ -13,12 +13,12 @@ export default {
     /**
      * Application name.
      */
-    appName: 'Jitsi Meet',
+    appName: 'Aerztekasse Meet',
 
     /**
      * The default server URL of Jitsi Meet Deployment that will be used.
      */
-    defaultServerURL: 'https://meet.jit.si',
+    defaultServerURL: 'https://meet.cdm.smis.ch',
 
     /**
      * The default server Timeout in seconds.
@@ -28,7 +28,7 @@ export default {
     /**
      * URL to send feedback.
      */
-    feedbackURL: 'mailto:support@jitsi.org',
+    feedbackURL: 'mailto:servicedesk.deutschschweiz@aerztekasse.ch',
 
     /**
      * The URL of Privacy Policy Page.
