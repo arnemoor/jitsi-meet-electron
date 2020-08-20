@@ -18,3 +18,5 @@ npm-debug.log
 
 build/
 dist/
+JitsiMeet.code-workspace
+package.json.orig
